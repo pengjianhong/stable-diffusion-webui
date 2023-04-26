@@ -92,6 +92,10 @@ A browser interface based on Gradio library for Stable Diffusion.
 - Now with a license!
 - Reorder elements in the UI from settings screen
 
+## Best Practise
+Use online GPU platform without installation, e.g: enter https://www.lanrui-ai.com/index/application, and use stable diffusion web ui application.
+
+
 ## Installation and Running
 Make sure the required [dependencies](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Dependencies) are met and follow the instructions available for both [NVidia](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) (recommended) and [AMD](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs) GPUs.
 
