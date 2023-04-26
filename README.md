@@ -93,7 +93,8 @@ A browser interface based on Gradio library for Stable Diffusion.
 - Reorder elements in the UI from settings screen
 
 ## Best Practise
-Use online GPU platform without installation, e.g: enter https://www.lanrui-ai.com/index/application, and use stable diffusion web ui application.
+Use online GPU platform without installation.
+E.g, enter https://www.lanrui-ai.com/index/application, and use stable diffusion web ui application.
 
 
 ## Installation and Running
